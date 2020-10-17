@@ -22,4 +22,4 @@ npm run dev
 API endpoints:
 
 @GET
-/api/customers
+http://localhost:5000/api/customers
